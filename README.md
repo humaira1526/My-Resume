@@ -22,6 +22,13 @@ This repository showcases my **technical skills, industry experience, and innova
 
 ---  
 
+## **📂 What You'll Find Here**   
+
+**📝 My Resume** – A comprehensive breakdown of my skills, experience, and projects   
+**👩‍💻Professional Experiences** – Highlighting tools and skills I learned and applied in projects and team contributions while adapting to new settings   
+**🚀 Projects Showcase** – Highlighting my work in software development, data analysis, and cloud computing while self-learning the necessary tools to provide high-quality work   
+**🎯 Technical Skills** – A detailed list of technologies and tools I excel in   
+
 ## **💼 Professional Experience**  
 ### **Software Engineer Co-Op** - *Denso International America*  *(Sept 2023 – Dec 2023)*  
 ✅ Engineered a **cloud-driven automated data transfer system**, eliminating 100% of manual errors and saving engineers **2.5+ hours daily**.  
