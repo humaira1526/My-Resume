@@ -11,9 +11,9 @@ This repository showcases my **technical skills, industry experience, and innova
 ## **🚀 About Me**    
 
 🔹 **🎓 Bachelor of Science in Computer Science** - Wayne State University (Graduating Dec 2024)
-🔹 **💻 Software Engineer & Data Specialist** with experience in **backend development, database management, and cloud services**
+🔹 **💻 Software Engineer & Data Specialist** with experience in **backend development, database management, and cloud services** 
 🔹 **⚡ Proficient in:** C++, Java, Python, JavaScript, SQL, NoSQL, Azure  
-🔹 **🏆 Experience with:** BI Tools, SDLC, PLM, Agile methodologies, CI/CD Pipelines, GitHub, MS Suite  
+🔹 **🏆 Experience with:** BI Tools, SDLC, PLM, Agile methodologies, CI/CD Pipelines, GitHub, MS Suite   
 🔹 **🤗 Soft Skills:** Leadership, Team Collaboration, Stakeholder Communication, Technical Documentation  
 
 📌 [**LinkedIn**](http://www.linkedin.com/in/humaira-tasnim-240623230/)  
