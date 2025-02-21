@@ -66,9 +66,9 @@ This repository showcases my **technical skills, industry experience, and innova
 🚀 Collaborated with frontend lead via **GitHub**, ensuring **seamless UI/UX** integration.  
 
 ### **SW Developer | Cloud-Based Data Transfer System** (*C#, JavaScript, PLM, Azure*)
-🏅Automated **data transfer System** to eliminate manual errors and save engineers 2.5+ hours daily.
-🏅Seamlessly integrated **CI/CD pipelines** to ensure efficient deployment.
-🏅Enhanced **team collaboration** with cross-functional engineers through Azure.
+🏅Automated **data transfer System** to eliminate manual errors and save engineers 2.5+ hours daily.  
+🏅Seamlessly integrated **CI/CD pipelines** to ensure efficient deployment.  
+🏅Enhanced **team collaboration** with cross-functional engineers through Azuren.  
 
 ### **Project Manager | 2D-3D Interior Design App** (*HTML, CSS, JavaScript, Java*)  
 📌 Led a **team of 5**, ensuring smooth collaboration and efficient task delegation.  
